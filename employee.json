@@ -1,0 +1,112 @@
+[
+  {
+    "emp_id": 100,
+    "first_name": "David",
+    "last_name": "Wallace",
+    "dob": "1997-11-17",
+    "sex": "M",
+    "salary": 250000,
+    "super_id": null,
+    "branch_id": 1
+  },
+  {
+    "emp_id": 101,
+    "first_name": "Jan",
+    "last_name": "Levison",
+    "dob": "1961-05-11",
+    "sex": "F",
+    "salary": 110000,
+    "super_id": 100,
+    "branch_id": 1
+  },
+  {
+    "emp_id": 103,
+    "first_name": "angela",
+    "last_name": "martin",
+    "dob": "1971-06-25",
+    "sex": "F",
+    "salary": 63000,
+    "super_id": null,
+    "branch_id": null
+  },
+  {
+    "emp_id": 104,
+    "first_name": "kelly",
+    "last_name": "kapoor",
+    "dob": "1980-02-05",
+    "sex": "F",
+    "salary": 55000,
+    "super_id": null,
+    "branch_id": null
+  },
+  {
+    "emp_id": 105,
+    "first_name": "Stanley",
+    "last_name": "hudson",
+    "dob": "1958-02-19",
+    "sex": "M",
+    "salary": 69000,
+    "super_id": null,
+    "branch_id": null
+  },
+  {
+    "emp_id": 106,
+    "first_name": "josh",
+    "last_name": "porter",
+    "dob": "1969-09-05",
+    "sex": "M",
+    "salary": 78000,
+    "super_id": 100,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 107,
+    "first_name": "andy",
+    "last_name": "bernard",
+    "dob": "1973-07-22",
+    "sex": "M",
+    "salary": 65000,
+    "super_id": 106,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 108,
+    "first_name": "jim",
+    "last_name": "halpert",
+    "dob": "1978-10-01",
+    "sex": "M",
+    "salary": 71000,
+    "super_id": 106,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 109,
+    "first_name": "oscar",
+    "last_name": "martinez",
+    "dob": "1968-02-19",
+    "sex": "M",
+    "salary": 69000,
+    "super_id": 106,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 110,
+    "first_name": "kevin",
+    "last_name": "malone",
+    "dob": "1978-02-19",
+    "sex": "M",
+    "salary": 69000,
+    "super_id": 106,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 111,
+    "first_name": "pam",
+    "last_name": "beesly",
+    "dob": "1988-02-19",
+    "sex": "F",
+    "salary": 69000,
+    "super_id": 106,
+    "branch_id": 3
+  }
+]

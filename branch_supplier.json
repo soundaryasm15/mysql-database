@@ -1,0 +1,22 @@
+[
+  {
+    "branch_id": 3,
+    "supplier_name": "Hammer Mill",
+    "supply_type": "Paper"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Patriot Paper",
+    "supply_type": "Paper"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Stamford Lables",
+    "supply_type": "Custom Forms"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Uni-ball",
+    "supply_type": "Writing Utensils"
+  }
+]

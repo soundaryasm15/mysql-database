@@ -1,0 +1,20 @@
+[
+  {
+    "branch_id": 1,
+    "branch_name": "Corporate",
+    "mgr_id": 100,
+    "mgr_start_date": "2006-02-09"
+  },
+  {
+    "branch_id": 3,
+    "branch_name": "stamford",
+    "mgr_id": 106,
+    "mgr_start_date": "1998-02-13"
+  },
+  {
+    "branch_id": 4,
+    "branch_name": "buffalo",
+    "mgr_id": null,
+    "mgr_start_date": null
+  }
+]
